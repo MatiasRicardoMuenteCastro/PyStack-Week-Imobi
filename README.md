@@ -1,5 +1,10 @@
 # PyStack-Week-Imobi
-Projeto Imobi, desenvolvido na PyStack Week utilizando Django, Html, Css e Bootstrap
+Projeto Imobi, desenvolvido na PyStack Week 
+<ul>
+  <li>Django</li>
+  <li> Html </li> 
+  <li> Css </li>
+  <li> Bootstrap </li>
 
 ## Tela de Login
 <img src = "https://i.ibb.co/nC3WGrT/Login.png">
