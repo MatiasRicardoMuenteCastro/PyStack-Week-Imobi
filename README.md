@@ -1,11 +1,12 @@
 # PyStack-Week-Imobi
-Projeto Imobi, desenvolvido na PyStack Week 
+Projeto Imobi desenvolvido na PyStack Week, os arquivos com HTML e CSS foram dados pelos organizadores do evento, pois o foco dele era ensinar a tecnologia Django que é utilizada no Back-End
 <ul>
-  <li>Django</li>
-  <li> Html </li> 
-  <li> Css </li>
-  <li> Bootstrap </li>
-
+  ### Tecnologias utilizadas
+  <li>Django - Framework Python (Back-End)</li>
+  <li> Html - (Front-End) </li> 
+  <li> Css - (Front-End) </li>
+  <li> Bootstrap - (Front - End) </li>
+</ul>
 ## Tela de Login
 <img src = "https://i.ibb.co/nC3WGrT/Login.png">
 
