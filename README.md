@@ -15,3 +15,4 @@ Projeto Imobi, desenvolvido na PyStack Week utilizando Django, Html, Css e Boots
 
 ## Tela para a demonstração de um imovel específico
 <img src = "https://i.ibb.co/qsSs40t/Imovel-Find-1.png">
+<img src = "https://i.ibb.co/rvcsf6J/Imovel-Find-2.png">
