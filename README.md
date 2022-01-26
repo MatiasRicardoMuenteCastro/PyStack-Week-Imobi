@@ -6,3 +6,6 @@ Projeto Imobi, desenvolvido na PyStack Week utilizando Django, Html, Css e Boots
 
 ## Tela de Cadastro
 <img src = "https://i.ibb.co/CPcMFRB/Cadastro.png">
+
+## Menu principal
+<img src = "https://i.ibb.co/0mm6mrV/Home.png">
