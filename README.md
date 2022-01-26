@@ -9,3 +9,6 @@ Projeto Imobi, desenvolvido na PyStack Week utilizando Django, Html, Css e Boots
 
 ## Menu principal
 <img src = "https://i.ibb.co/0mm6mrV/Home.png">
+
+## Modal de filtro
+<img src = "https://i.ibb.co/2SBVsq1/Filtrar.png">
