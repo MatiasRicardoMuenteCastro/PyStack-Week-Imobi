@@ -18,5 +18,8 @@ Projeto Imobi, desenvolvido na PyStack Week utilizando Django, Html, Css e Boots
 <img src = "https://i.ibb.co/rvcsf6J/Imovel-Find-2.png">
 <img src = "https://i.ibb.co/nrH2W3n/imovel-Find-3.png">
 
-## Agendar visita
+## Modal para agendar visitas ao apartamento
 <img src = "https://i.ibb.co/wc8P7Yt/Agendar-visita.png">
+
+## Tela de agendamentos
+<img src = "https://i.ibb.co/LSKVbXb/Agendamentos.png">
